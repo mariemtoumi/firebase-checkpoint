@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    justify-content: center;
+    padding: 40px;
+}
+body{
+    background-image: url("https://excelwithbusiness.com/wp-content/uploads/2018/06/WebDev.jpg");
+    background-size: cover;
+}
+h1, label{
+    color:aliceblue;
+    padding:20px;
+}
